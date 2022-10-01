@@ -33,25 +33,54 @@ git clone https://github.com/your-username/blog-posts.git
 - Create a branch
 
 ```markdown
-git checkout -b branch_name main
+git checkout -b blog main
 ```
 
-- Make your changes. Create a file(filename=`<your-githubusername.md>
+- Make your changes. Create a file(filename=`<your-githubusername.json>
 - List any 5 tech blog post. It should respect the format:
-  - Title (required)
-  - Short Description (optional)
-  - Link to blog post(required)
+  
+## For a single blog post. 
+Use this format if your want to submit a single blog post
 
+```json
+ {
+    "Title": "Title of blog post",
+    "Description": "A short description",
+    "URL": "Link to blog post",
+    "Author": "Author of the blog content"
+  }
+```
+## For multiple blog posts. 
+Use this format if your want to submit a multiple blog posts
+```json
+{
+  "posts": [
+    {
+    "Title": "Title of blog post",
+    "Description": "A short description",
+    "URL": "Link to blog post",
+    "Author": "Author of the blog content"
+  },
+    {
+    "Title": "Setting up an apache server on Ubuntu",
+    "Description": "A summarized process of installing an apache server",
+    "Link": "https://onecode.hashnode.dev/setting-up-an-apache-server-on-ubuntu",
+    "Author": "Ndi Lionel"
+  }
+   ]
+}
+```
+
+# Commiting
 ```markdown
 git add .
-git commit -m 'My favorite tech blog posts: <github_username>'
-git push origin branch_name
+git commit -m 'feat: added my blog post: <github-username>'
+git push origin blog
 ```
 
-- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo). Make sure to compare across forks, then select this repository as target
 - Add reviewers(optional)
 - Wait for your PR review and merge approval!
-
 
 - **Please STAR this repository** if you had fun!
 

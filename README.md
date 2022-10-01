@@ -1,4 +1,4 @@
-# top-blog-post
+# Blog posts
 Tech blog posts.
 This repository contains a list of tech blog posts.
 
@@ -37,7 +37,7 @@ git checkout -b blog main
 ```
 
 - Make your changes. Create a file(filename=`<your-githubusername.json>
-- List any 5 tech blog post. It should respect the format:
+- List any tech blog posts (you can google any), as many as you want. It should respect the format:
   
 ## For a single blog post. 
 Use this format if your want to submit a single blog post
@@ -70,8 +70,17 @@ Use this format if your want to submit a multiple blog posts
    ]
 }
 ```
+# Example
+[Check the example file](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/example.json)
 
-# Commiting
+# Committing
+Please note the following before committing
+1. Blog post links must be live and public.
+2. All authors must be the real author(s) of the blog post.
+3. All public domains are accepted.
+4. Your PR will be closed if you provide an invalid blog post author.
+5. No editing existing files on purpose. If you notice any problem with a file, please create an [Issue](https://github.com/Developer-Student-Clubs-UBa/blog-posts/issues/new)
+
 ```markdown
 git add .
 git commit -m 'feat: added my blog post: <github-username>'

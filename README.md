@@ -36,7 +36,7 @@ git clone https://github.com/your-username/blog-posts.git
 git checkout -b blog main
 ```
 
-- Make your changes. Create a file(filename=`<your-githubusername.json>
+- Make your changes. Create a file(filename=`<your-githubusername.json> in the `blogs` directory
 - List any tech blog posts (you can google any), as many as you want. It should respect the format:
   
 ## For a single blog post. 

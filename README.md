@@ -3,7 +3,7 @@ Tech blog posts.
 This repository contains a list of tech blog posts.
 <br>
 
-### Read this documentation in : <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd> [Francais](./README.fr.md)
+### Read this documentation in : <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./README.fr.md)</kbd> [Francais](./README.fr.md)
 <br>
 
 # 🎃 HacktoberFest 2022 🎃

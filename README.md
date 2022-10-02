@@ -18,7 +18,7 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## How can I contribute?
 
-You can contribute to this repository
+You can contribute to this repository, but before contributing, please go through our [CODE_OF_CONDUCT](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/CODE_OF_CONDUCT.md)
 
 Feel free to contribute!
 PS: Your contributions must follow the contribution guidline:
@@ -40,7 +40,7 @@ git checkout -b blog main
 - List any tech blog posts (you can google any), as many as you want. It should respect the format:
   
 ## For a single blog post. 
-Use this format if your want to submit a single blog post. [Example](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/example-single.json)
+Use this format if your want to submit a single blog post. [Example](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/blogs/example-single.json)
 
 ```json
  {
@@ -51,7 +51,7 @@ Use this format if your want to submit a single blog post. [Example](https://git
   }
 ```
 ## For multiple blog posts. 
-Use this format if your want to submit a multiple blog posts. [Example](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/example-multiple.json)
+Use this format if your want to submit a multiple blog posts. [Example](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/blogs/example-multiple.json)
 ```json
 {
   "posts": [

@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+    "Title": "Google’s New AI Image Generator Offers More Personalization",
+    "Description": "Google’s DreamBooth AI text-to-image generator is the new kid on the block.",
+    "Link": "https://medium.com/technology-hits/googles-new-ai-image-generator-offers-more-personalization-6fee9fcdc39",
+    "Author": "Jim Clyde Monge"
+  },
+    {
+    "Title": "How to Get HTML Form Values with JavaScript?",
+    "Description": "In this article, we’ll look at how to get HTML form values with JavaScript.",
+    "Link": "https://medium.com/@hohanga/how-to-get-html-form-values-with-javascript-b4869bc5e889",
+    "Author": "John Au-Yeung"
+  }
+  ]
+}

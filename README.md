@@ -71,8 +71,8 @@ Use this format if your want to submit a multiple blog posts. [Example](https://
 }
 ```
 # Examples
-1. [Single](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/example-single.json)
-2. [Multiple](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/example-multiple.json)
+1. [Single](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/blogs/example-single.json)
+2. [Multiple](https://github.com/Developer-Student-Clubs-UBa/blog-posts/blob/main/blogs/example-multiple.json)
 
 # Committing
 Please note the following before committing

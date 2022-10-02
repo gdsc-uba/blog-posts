@@ -1,0 +1,18 @@
+{
+  {
+  "posts": [
+    {
+    "Title": "How to build your own LinkedIn Profile Scraper in 2022",
+    "Description": "LinkedIn is the largest professional network over the internet accessible through mobile or web to look for jobs, internship and enlarge your network. On LinkedIn, you can find people with similar skills, interests, and experience. To access the platform, you need to sign up and create a profile. On Linkedin you can search for jobs, internships, and people with similar skills, interests, and experience. What do you say of automating this search process ? This let us to web scraping.",
+    "URL": "https://dev.to/yokwejuste/how-to-build-your-own-linkedin-profile-scraper-in-2022-5822",
+    "Author": "Steve Yonkeu"
+  },
+    {
+    "Title": "The End of Atom",
+    "Description": "Developers keep on doing it great and breaking through different levels everyday, with their logic , algorithm and code, all together with an IDE or text editor, miracles are performed. An IDE? Ouff! I guess you'll ask me what is it? Stay back and don't be scared. ",
+    "Link": "https://dev.to/yokwejuste/the-end-of-atom-50p0",
+    "Author": "Steve Yonkeu"
+  }
+   ]
+  }
+}

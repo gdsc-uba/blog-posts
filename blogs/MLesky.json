@@ -1,0 +1,33 @@
+{
+    "posts": [{
+            "Title": "Coinbase paused transactions in US for hours to address bank transfer issues",
+            "Description": "Coinbase temporarily stopped transactions for users in the US due to an issue preventing the company from processing withdrawals or deposits involving bank accounts.",
+            "URL": "https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues",
+            "Author": "Emma Roth"
+        },
+        {
+            "Title": "Telegram cuts subscription fee by more than half in india",
+            "Description": "Telegram has cut the monthly subscription fee for its premium tier by more than half in India, just months after introducing the offering as it attempts to aggressively cash in on a large user base in one of its biggest markets.",
+            "Link": "https://techcrunch.com/2022/10/01/telegram-premium-india-price-change/",
+            "Author": "Manish Singh"
+        },
+        {
+            "Title": "Something Weird Is Going on With Mark Zuckerberg and Saturday’s UFC Fight",
+            "Description": "Meta CEO Mark Zuckerberg can’t duck and weave the jabbing questions that he’s responsible for buying out the entire arena for a major UFC show this Saturday.",
+            "Link": "https://gizmodo.com/something-weird-is-going-on-with-zuckerberg-and-the-ufc-1849602650",
+            "Author": "Kyle Barr"
+        },
+        {
+            "Title": "She-Hulk: Attorney at Law Timeline",
+            "Description": "All events mentioned, seen and suggested in She-Hulk 09 episodes.",
+            "Link": "https://marvelcinematicuniverse.fandom.com/wiki/User_blog:Carlos_EsquiZo/She-Hulk:_Attorney_at_Law_Timeline",
+            "Author": "Carlos Esquizo"
+        },
+        {
+            "Title": "‘Deadpool 3’ Could be the Multiversal Film Marvel Fans Have Wanted",
+            "Description": "The Multiverse has been a major point of Phase Four thus far, even though it may have had its bumps in the road, there is no denying that Deadpool 3 has the chance to be the Multiversal film that Marvel fans have wanted.",
+            "Link": "https://marvelblog.com/2022/10/02/deadpool-3-could-be-the-multiversal-film-marvel-fans-have-wanted/",
+            "Author": "Carlos EsquiZo"
+        }
+    ]
+}

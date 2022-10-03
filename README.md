@@ -1,6 +1,10 @@
 # Blog posts
 Tech blog posts.
 This repository contains a list of tech blog posts.
+<br>
+
+### Read this documentation in : <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./README.fr.md)</kbd> [Francais](./README.fr.md)
+<br>
 
 # 🎃 HacktoberFest 2022 🎃
 
@@ -93,5 +97,9 @@ git push origin blog
 - Wait for your PR review and merge approval!
 
 - **Please STAR this repository** if you had fun!
+
+### Thanks to all our contributors
+
+![contibutors](./CONTRIBUTORS.svg)
 
 Made with :purple_heart: 

@@ -94,4 +94,8 @@ git push origin blog
 
 - **Please STAR this repository** if you had fun!
 
+### Thanks to all our contributors
+
+![contibutors](./CONTRIBUTORS.svg)
+
 Made with :purple_heart: 

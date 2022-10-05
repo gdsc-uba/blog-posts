@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "Title": "What are Pure Components in React",
+      "Description": "This article will show you what Pure Components in React are and how to use them.",
+      "URL": "https://medium.com/technofunnel/working-with-react-pure-components-166ded26ae48",
+      "Author": "Mayank Gupta"
+    },
+    {
+      "Title": "Why useEffect is a bad place to make API calls",
+      "Description": "This article will show you why use effect hook is a bad place to make API calls.",
+      "URL": "https://medium.com/wesionary-team/why-useeffect-is-a-bad-place-to-make-api-calls-98a606735c1c",
+      "Author": "Rojan Maharjan"
+    },
+    {
+      "Title": "Building smart 404 pages in NextJS",
+      "Description": "This article will show you how to build a smarth 404 not found pages in NextJS.",
+      "URL": "https://medium.com/wesionary-team/building-smart-404-pages-in-nextjs-63fc5f10912b",
+      "Author": "Rojan Maharjan"
+    }
+  ]
+}

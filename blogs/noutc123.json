@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "Title": "The subprocess Module: Wrapping Programs With Python",
+        "Description": "If you have ever wanted to simplify your command-line scripting or use Python alongside command-line applications—or any applications for that matter—then the Python subprocess module can help. From running shell commands and command-line applications to launching GUI applications, the Python subprocess module can help.",
+        "URL": "https://realpython.com/python-subprocess/",
+        "Author": "Ian Currie"
+      },
+      {
+        "Title": "How to Replace a String in Python",
+        "Description": "If you’re looking for ways to remove or replace all or part of a string in Python, then this tutorial is for you. You’ll be taking a fictional chat room transcript",
+        "URL": "https://realpython.com/replace-string-python/",
+        "Author": "Ian Currie"
+      }
+     
+    ]
+  }

@@ -13,7 +13,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.CONTRIBUTORS_TOKEN }}
           round: true,
-          author: yokwejuste <yokwejuste@gmail.com>,
+          affiliation: all,
           userNameHeight: 15
           commitMessage: 'chore: update contributors'
           itemTemplate: >

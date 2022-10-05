@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+    "Title": "Qt Designer and Python: Build Your GUI Applications Faster",
+    "Description": "QT is a dedicated language for desktop applications, so Qt Designer is an extension that allows you to quickly design your application interface to exactly what you need.",
+    "URL": "https://dev.to/jones268/qt-designer-and-python-build-your-gui-applications-faster-4bme",
+    "Author": "jones268"
+  },
+    {
+    "Title": "Making Telegram Bots with Python",
+    "Description": "In this course, you will start creating a bot from scratch, discovering all possible settings to utilize all power of Bot API and creating a real-world application. All this by using Python and Telegram Bot",
+    "Link": "https://dev.to/tbhaxor/making-telegram-bots-with-python-hid",
+    "Author": "Gurkirat Singh"
+  },
+    {
+    "Title": "Python Virtual Environments tutorial using Virtualenv and Poetry ",
+    "Description": "A mini-guided tutorial showing how to use virtual environment and why it's matters on virtualenv and poetry illustrated examples.",
+    "Link": "https://dev.to/dmitryzub/python-virtual-environment-what-why-how-virtualenv-poetry-2nff",
+    "Author": "Dmitriy Zub"
+  }
+   ]
+}

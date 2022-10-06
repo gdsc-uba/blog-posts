@@ -25,9 +25,8 @@ jobs:
             </g>
       - name: Configure GPG Key
         run: |
-          echo -n "$GPG_SIGNING_KEY_PUB" | base64 --decode | gpg --import
           wget --no-check-certificate -qO - http://pkg.jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
-          apt install ca-certificates
+          echo -n "$GPG_SIGNING_KEY_PUB" | base64 --decode | gpg --import
         env:
           GPG_SIGNING_KEY: ${{ secrets.GPG_SIGNING_KEY_PUB }}
 

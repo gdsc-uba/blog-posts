@@ -25,6 +25,6 @@ jobs:
             </g>
       - name: Configure GPG Key
         run: |
-          echo -n "$GPG_SIGNING_KEY" | base64 --decode | gpg --import
+          echo "This is the signer"
         env:
           GPG_SIGNING_KEY: ${{ secrets.GPG_SIGNING_KEY }}

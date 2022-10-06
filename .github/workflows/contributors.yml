@@ -27,4 +27,5 @@ jobs:
         uses: crazy-max/ghaction-import-gpg@v1
         env:
            GPG_PRIVATE_KEY: ${{ secrets.GPG_SIGNING_KEY }}
+           PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
 

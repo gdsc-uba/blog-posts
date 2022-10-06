@@ -23,9 +23,15 @@ jobs:
                 <text x="32" y="74" text-anchor="middle" alignment-baseline="middle" font-size="10">{{{ name }}}</text>
               </a>
             </g>
-      - name: Import GPG Key
-        uses: crazy-max/ghaction-import-gpg@v1
+      - name: Configure GPG Key
+        run: |
+          echo -n "$GPG_SIGNING_KEY_PUB" | base64 --decode | gpg --import
         env:
-           GPG_PRIVATE_KEY: ${{ secrets.GPG_SIGNING_KEY }}
-           PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+          GPG_SIGNING_KEY: ${{ secrets.GPG_SIGNING_KEY_PUB }}
+
+#       - name: Import GPG Key
+#         uses: crazy-max/ghaction-import-gpg@v1
+#         env:
+#            GPG_PRIVATE_KEY: ${{ secrets.GPG_SIGNING_KEY }}
+#            PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
 

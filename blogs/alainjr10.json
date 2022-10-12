@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+      "Title": "Guide for beginners how to start your career with flutter development",
+      "Description": "Flutter is gaining popularity due to its ability to design applications and its simplicity of understanding swiftly.",
+      "URL": "https://www.sapphiresolutions.net/blog/guide-for-beginners-how-to-start-your-career-with-flutter-development",
+      "Author": "Saphire solutions"
+    },
+      {
+      "Title": "What is Web3? The Decentralized Internet of the Future Explained",
+      "Description": "In this article, I will lay out how the web has evolved, where's it going next, and why this matters.",
+      "URL": "https://www.freecodecamp.org/news/what-is-web3/",
+      "Author": "Nader Dabit"
+    }
+     ]
+  }
+  

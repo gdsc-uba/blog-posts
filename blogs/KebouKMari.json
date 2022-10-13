@@ -1,0 +1,64 @@
+{
+  "des postes": [
+    {
+    "Title": "7 Techniques to Handle Imbalanced Data",
+    "Description": "This blog post introduces seven techniques that are commonly applied in domains like intrusion detection or real-time bidding, because the datasets are often extremely imbalanced.",
+    "URL": "https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html",
+    "Author": " Ye Wu"
+  },
+    {
+    "Title": "How to use a pre-trained deep learning model",
+    "Description": "In this article, we will use a pre-trained model for image classification",
+    "Link": "https://www.educative.io/answers/how-to-use-a-pre-trained-deep-learning-model",
+    "Author": "Harsh Jain"
+  },
+    {
+    "Title": "Drug Discovery with Deep Learning. Under 10 Lines of Codes.",
+    "Description": "Introduce DeepPurpose, a deep learning-based toolkit for drug-target interaction prediction, drug repurposing, and virtual screening",
+    "Link": "https://towardsdatascience.com/drug-discovery-with-deep-learning-under-10-lines-of-codes-742ee306732a",
+    "Author": "Kexin Huang"
+  },
+    {
+    "Title": "Comparing Robustness of MAE, MSE and RMSE",
+    "Description": "How the main regression metrics behave in the presence of outliers",
+    "Link": "https://towardsdatascience.com/comparing-robustness-of-mae-mse-and-rmse-6d69da870828",
+    "Author": "Vinícius Trevisan"
+  },
+    {
+    "Title": "Transfer Learning Guide: A Practical Tutorial With Examples for Images and Text in Keras",
+    "Description": "It can take weeks to train a neural network on large datasets. Luckily, this time can be shortened thanks to model weights from pre-trained models – in other words, applying transfer learning.",
+    "Link": "https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras",
+    "Author": "Derrick Mwiti"
+  },
+    {
+    "Title": "13 libraries Python to know for Data Science ",
+    "Description": "The 13 essential Python libraries to know to do Data Science, but especially the code to use them directly !",
+    "Link": "https://inside-machinelearning.com/en/13-libraries-python-data-science/",
+    "Author": "TOM KELDENICH"
+  },
+    {
+    "Title": "Hyperparameter Optimization in Machine Learning Models",
+    "Description": "This tutorial covers what a parameter and a hyperparameter are in a machine learning model along with why it is vital in order to enhance your model’s performance",
+    "Link": "https://www.datacamp.com/tutorial/parameter-optimization-machine-learning-models",
+    "Author": "Sayak Paul"
+  },
+    {
+    "Title": "Evaluation Metrics for Regression Algorithms (Along with their implementation in Python)",
+    "Description": "This article focuses on the evaluation metrics that are used to evaluate a Regression Algorithm along with their implementation in Python. At the end of this article you will get familiar with evaluation metrics for regression algorithms along with their implementation in python.",
+    "Link": "https://medium.com/analytics-vidhya/evaluation-metrics-for-regression-algorithms-along-with-their-implementation-in-python-9ec502729dad",
+    "Author": "Venu Gopal Kadamba"
+  },
+    {
+    "Title": "Deploying Deep Learning Models Part 1: Preparing the Model",
+    "Description": "In this tutorial we'll see how you can take your work and give it an audience by deploying your projects on the web",
+    "Link": "https://blog.paperspace.com/deploying-deep-learning-models-flask-web-python/",
+    "Author": "Vihar Kurama"
+  },
+    {
+    "Title": "Building a Machine Learning Web Application Using Streamlit",
+    "Description": "An easy tutorial on building Streamlit machine learning applications",
+    "Link": "https://towardsdatascience.com/building-a-machine-learning-web-application-using-streamlit-8c3d942f7b35",
+    "Author": "Gerry Christian Ongko"
+  }
+   ]
+}

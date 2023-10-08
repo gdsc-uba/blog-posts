@@ -6,7 +6,7 @@ This repository contains a list of tech blog posts.
 ### Read this documentation in : <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](./README.fr.md)</kbd> [Francais](./README.fr.md)
 <br>
 
-# 🎃 HacktoberFest 2022 🎃
+# 🎃 HacktoberFest 2023 🎃
 
 If you came here for Hacktoberfest 🦇️:
 

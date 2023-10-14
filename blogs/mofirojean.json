@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "Title": "Angular Signals in 3 Minutes",
+      "Description": "Signals are an amazing addition to Angular. — What makes them so great?",
+      "URL": "https://medium.com/itnext/angular-signals-in-3-minutes-7f70f9e125ae",
+      "Author": "Erxk"
+    },
+    {
+      "Title": "A Comprehensive Guide to Angular’s Defer Block",
+      "Description": "The primary purpose of the defer block is to lazy load content. Whether it’s a component, directive, or pipe, if it’s placed inside a defer block, Angular will only load it based on the specified conditions or events. This is particularly useful for performance optimization, especially when certain components aren’t immediately needed or visible to the user.",
+      "URL": "https://medium.com/netanelbasal/a-comprehensive-guide-to-angulars-defer-block-468c74048df4",
+      "Author": "Netanel Basal"
+    }
+  ]
+}

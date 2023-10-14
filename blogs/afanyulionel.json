@@ -1,0 +1,16 @@
+{
+  "posts" : [
+    {
+      "title" : "Push your first commit to Github",
+      "description": "An introduction to version control using Git and Github",
+      "url": "https://onecode.hashnode.dev/push-your-first-commit-to-github",
+      "author": "Ndi Lionel"
+    },
+    {
+      "title" : "React- context API",
+      "description": "An introduction to State management in reactjs",
+      "url": "https://onecode.hashnode.dev/react-context-api",
+      "author": "Ndi Lionel"
+    }
+  ]
+}

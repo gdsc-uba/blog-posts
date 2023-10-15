@@ -1,0 +1,6 @@
+ {
+    "Title": "Cisco Modeling Labs",
+    "Description": "CML is the next logical iteration of Virtual Internet Routing Labs (VIRL) and is officially backed by Cisco with legal VNF licensing. It's a KVM type-2 hypervisor, and automatically handles VNF wiring with an HTML5/REST interface.",
+    "URL": "https://dev.to/ngschmidt/cisco-modeling-labs-4f10",
+    "Author": "Nick Schmidt"
+  }

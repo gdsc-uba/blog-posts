@@ -1,0 +1,27 @@
+{
+    "posts": [{
+            "Title": "7 Cool HTML Elements Nobody Uses",
+            "Description": "Searching for cool HTML elements, especially if you don’t know what you’re looking for, is often like being thrown into a pile of garbage",
+            "URL": "https://medium.com/@tapajyoti-bose/7-cool-html-elements-nobody-uses-436598d85668",
+            "Author": "Tapajyoti Bose"
+        },
+        {
+            "Title": "The 5-Step Data Science Project Life Cycle You Need to Be an Effective Data Scientist",
+            "Description": "These 5 core steps can be used to plan any data science project — If you’re anything like me, checklists and processes are your lifelines. ",
+            "URL": "https://medium.com/towards-data-science/the-5-step-data-science-project-life-cycle-you-need-to-be-an-effective-data-scientist-9343684b96cf?source=topics_v2---------13-84--------------------1b4d8da8_c8f6_4e30_96aa_2db48c98fd1a-------17",
+            "Author": "Madison Hunter"
+        },
+        {
+            "Title": "How we power our open-source neural search with qdrant",
+            "Description": "This is going to be part of a series of posts in which we show how refinery builds on top of qdrant, an open-source vector search engine.",
+            "URL": "https://dev.to/meetkern/how-we-power-our-neural-search-with-qdrant-47nl",
+            "Author": "Johannes Hötter"
+        },
+        {
+            "Title": "9 Open Source Projects to Contribute to - Hacktoberfest 2022",
+            "Description": "Hacktoberfest is a month-long event where people are awarded for contributing to open source projects 🙌.",
+            "URL": "https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2022-1fae",
+            "Author": "Bobby Iliev"
+        }
+    ]
+}

@@ -2,7 +2,7 @@
 Articles de blog tech.
 Ce dépôt contient une liste d'articles de blogs techniques.
 
-# 🎃 HacktoberFest 2022 🎃
+# 🎃 HacktoberFest 2023 🎃
 
 Si vous êtes venu ici pour le Hacktoberfest 🦇️ :
 

@@ -13,6 +13,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.CONTRIBUTORS_TOKEN }}
           round: true,
+          affiliation: all,
           userNameHeight: 15
           commitMessage: 'chore: update contributors'
           itemTemplate: >
@@ -22,3 +23,9 @@ jobs:
                 <text x="32" y="74" text-anchor="middle" alignment-baseline="middle" font-size="10">{{{ name }}}</text>
               </a>
             </g>
+      - name: Import GPG Key
+        uses: crazy-max/ghaction-import-gpg@v1
+        env:
+           GPG_PRIVATE_KEY: ${{ secrets.GPG_SIGNING_KEY }}
+           PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+

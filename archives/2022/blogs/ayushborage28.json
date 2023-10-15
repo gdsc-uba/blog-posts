@@ -1,0 +1,23 @@
+{
+    "posts": [
+      {
+      "Title": "USB branding could become a little easier to understand",
+      "Description": "Getting rid of certain names may not make a huge difference.",
+      "Link": "https://www.engadget.com/usb-branding-superspeed-usb-4-usb-if-150554927.html",
+      "Author": "K.Holt"
+    },
+      {
+      "Title": "Tesla debuts an actual, mechanical prototype of its Optimus robot",
+      "Description": "The system has come a long way in just over a year.",
+      "Link": "https://www.engadget.com/tesla-debuts-optimus-humanoid-service-robot-ai-day-2022-012054385.html",
+      "Author": "A. Tarantola"
+    },
+    {
+    "Title": "NASA and SpaceX will study the possibility of using a Dragon capsule to boost Hubble's orbit",
+    "Description": "It could add years to the aging telescope's life.",
+    "Link": "https://www.engadget.com/nasa-spacex-dragon-capsule-boost-hubble-orbit-133037538.html",
+    "Author": "M. Moon"
+  }
+     ]
+  }
+  

@@ -1,16 +1,16 @@
 {
-  "posts": [
-    {
-    "Title": "How to build your own LinkedIn Profile Scraper in 2022",
-    "Description": "LinkedIn is the largest professional network over the internet accessible through mobile or web to look for jobs",
-    "URL": "https://dev.to/yokwejuste/how-to-build-your-own-linkedin-profile-scraper-in-2022-5822",
-    "Author": "Steve Yonkeu"
-  },
-    {
-    "Title": "The End of Atom",
-    "Description": "Developers keep on doing it great and breaking through different levels everyday, with their logic , algorithm and code,",
-    "URL": "https://dev.to/yokwejuste/the-end-of-atom-50p0",
-    "Author": "Steve Yonkeu"
-  }
-   ]
+    "posts": [
+        {
+            "Title": "A Beginner’s Guide to Full Stack Development in Python",
+            "Description": "In this article, we’ll be exploring Python for full stack web development, popular Python frameworks, and how to build a Django (a Python web framework) app. With organizations increasingly looking to hire Django developers, knowledge of this popular framework can open up rewarding career opportunities.",
+            "URL": "https://www.turing.com/kb/guide-to-full-stack-development-in-python",
+            "Author": "Steve Yonkeu"
+        },
+        {
+            "Title": "Introduction to Python Class Attributes",
+            "Description": "how they’re used as well as class methods and how to create them.",
+            "URL": "https://www.turing.com/kb/introduction-to-python-class-attributes",
+            "Author": "Steve Yonkeu"
+        }
+    ]
 }

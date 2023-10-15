@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "Title": "Comment met-on en place un OCR sur une image ?",
+            "Description": "Nous développons des applications de plus en plus complexes qui notamment doivent traiter des données venues de sources extérieures comme des images. Un exemple précis pour éclaircir ce cas est une application qui permet à l’utilisateur de charger une image comme celle d’une facture et d’en extraire les données de ladite image à savoir le nom du produit, sa quantité et son prix. C'est pourquoi je vous propose dans cet article une méthode qui permet d’extraire les données dans une image par OCR avec Python.",
+            "URL": "https://www.peef.dev/post/nasser/comment-met-on-en-place-un-ocr-sur-une-image",
+            "Author": "nasser"
+        },
+        {
+            "Title": "Personnaliser ou créer des raccourcis claviers sur Odoo et partout ailleurs",
+            "Description": "Dans cet article, je vais vous montrer comment personnaliser ou créer des raccourcis claviers pour votre application web en prenant un exemple sur Odoo.",
+            "URL": "https://www.peef.dev/post/nasser/personnaliser-ou-creer-des-raccourcis-claviers-sur-odoo-et-partout-ailleurs-231",
+            "Author": "nasser"
+        },
+        {
+            "Title": "How To Develop and Build MERN Stack",
+            "Description": "A step by step guide with an example project",
+            "URL": "https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-mern-stack-9a7a1099624",
+            "Author": "Bhargav Bachina"
+        },
+        {
+            "Title":"5 Steps To Build React Components Like A Pro",
+            "Description": "In this thread, we are going to look at a quick way to build truly maintainable, flexible, simple, and reusable components.",
+            "URL": "https://typeshare.co/amit08255/posts/-NB6MwiJc1MUWYollypS",
+            "Author": "Amit Kumar"
+        }
+    ]
+}

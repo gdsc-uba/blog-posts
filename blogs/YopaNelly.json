@@ -1,0 +1,17 @@
+{
+    "posts": [
+      {
+        "Title": "The Future of AI in 2023 and Beyond",
+        "Description": "A look at the latest trends and developments in AI, and what the future holds for this transformative technology.",
+        "URL": "https://www.technologyreview.com/2023/10/15/1061805/the-future-of-ai-in-2023-and-beyond/",
+        "Author": "Will Knight"
+      },
+      {
+        "Title": "The 5 Best Programming Languages to Learn in 2023",
+        "Description": "A list of the most in-demand and versatile programming languages to learn in 2023, based on job market trends and expert opinions.",
+        "URL": "https://www.freecodecamp.org/news/the-5-best-programming-languages-to-learn/",
+        "Author": "Quincy Larson"
+      }
+    ]
+  }
+  

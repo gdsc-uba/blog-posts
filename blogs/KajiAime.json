@@ -1,0 +1,16 @@
+{
+    "posts":[
+        {
+            "Title": "React JS Best Practices from the New Docs.",
+            "Description": "The author talks about the new documentation for Reactjs, beta.reactjs.org and discusses 160 facts about ReactJS, such as old news, updates and cool features.",
+            "URL": "https://medium.com/@sebastiancarlos/react-js-best-practices-from-the-new-docs-1c65570e785d",
+            "Author": "Sebastian Carlos"
+        },
+        {
+            "Title": "API development: Part1 - Python/Django",
+            "Description": "The author takes us through a series of steps in order to create an API with Django. Also, the author gives notes to explain concepts and terminologies used in Django.",
+            "URL": "https://medium.com/@rishimishra0404/api-developement-part1-python-django-0b149df41594",
+            "Author": "Rishi Mishra"
+        }
+    ]
+} 

@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "Title": "API development: Part1 - Python/Django",
+            "Description": "The author takes us through a series of steps in order to create an API with Django. Also, the author gives notes to explain concepts and terminologies used in Django.",
+            "URL": "https://medium.com/@rishimishra0404/api-developement-part1-python-django-0b149df41594",
+            "Author": "Rishi Mishra"
+        },
+        {
+            "title" : "Push your first commit to Github",
+            "description": "An introduction to version control using Git and Github",
+            "url": "https://onecode.hashnode.dev/push-your-first-commit-to-github",
+            "author": "Ndi Lionel"
+          }
+     ]
+  }

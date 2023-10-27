@@ -1,0 +1,16 @@
+{
+    "posts": [
+      {
+      "Title": "Why Dart seems flattering to Flutter?",
+      "Description": "A blog about why dart goes handy for flutter with all its nuances & processes.",
+      "URL": "https://medium.com/@thakurshaileshkumar507/why-dart-seems-flattering-to-flutter-288723fb0550",
+      "Author": "Shailesh Thakur"
+    },
+      {
+      "Title": "Basics about DevOps.",
+      "Description": "A beginner friendly blog for prerequisites for starting with DevOps.",
+      "Link": "https://googlecoder.hashnode.dev/basics-about-devops",
+      "Author": "Shailesh Thakur"
+    }
+     ]
+  }
